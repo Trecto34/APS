@@ -3,13 +3,10 @@ Simple script to install pentesting tools on Arch Linux.
 
 ![](https://github.com/Iann-Zorkot/aps/blob/main/aps-print.png?raw=true)
 
-## Dependencies
-- [Fish](https://github.com/fish-shell/fish-shell)
-
 ## Installation
-1. `git clone https://github.com/Iann-Zorkot/APS.git # Clone this repository`
+1. `git clone https://github.com/Trecto34/APS # Clone this repository`
 1. `sudo su # Login as root`
-1. `chmod +x arch-pentest-setup.sh && fish ./arch-pentest-setup.sh # Run`
+1. `chmod +x arch-pentest-setup.sh && ./arch-pentest-setup.sh # Run`
 
 ## Available Tools
 - [nmap](https://nmap.org/) 
@@ -49,6 +46,7 @@ Simple script to install pentesting tools on Arch Linux.
 - [nuclei](https://github.com/projectdiscovery/nuclei)
 - [seclists](https://github.com/danielmiessler/SecLists)
 - [fuzzingtool](https://github.com/NESCAU-UFLA/FuzzingTool)
+- [openvpn](https://github.com/OpenVPN/openvpn)
 
 ## Adding more tools
 You can install other tools through the [**blackarch**](https://www.blackarch.org/) repository, added by this script.
