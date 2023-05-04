@@ -48,6 +48,8 @@ Simple script to install pentesting tools on Arch Linux.
 - [fuzzingtool](https://github.com/NESCAU-UFLA/FuzzingTool)
 - [openvpn](https://github.com/OpenVPN/openvpn)
 
+And much more from [this repository](https://github.com/oliveira-andre/bug_bounty_tools)
+
 ## Adding more tools
 You can install other tools through the [**blackarch**](https://www.blackarch.org/) repository, added by this script.
 
