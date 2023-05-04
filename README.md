@@ -5,8 +5,8 @@ Simple script to install pentesting tools on Arch Linux.
 
 ## Installation
 1. `git clone https://github.com/Trecto34/APS # Clone this repository`
-1. `sudo su # Login as root`
-1. `chmod +x arch-pentest-setup.sh && ./arch-pentest-setup.sh # Run`
+1. `chmod +x arch-pentest-setup.sh`
+1. `sudo ./arch-pentest-setup.sh # Run`
 
 ## Available Tools
 - [nmap](https://nmap.org/) 
