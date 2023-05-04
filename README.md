@@ -2,7 +2,7 @@
 Simple script to install pentesting tools on Arch Linux. 
 
 ![](https://github.com/Iann-Zorkot/aps/blob/main/aps-print.png?raw=true)
-
+`And modified by me :)`
 ## Installation
 1. `git clone https://github.com/Trecto34/APS # Clone this repository`
 1. `chmod +x arch-pentest-setup.sh`
